@@ -1,0 +1,29 @@
+{
+  "name": "playwright-udemy-framework",
+  "version": "1.0.0",
+  "description": "This project is a **Playwright-based end-to-end test automation framework** built using **TypeScript**, supporting **data-driven testing**, **Allure reporting**, and scalable test design.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohanrajEleviant/playwright-udemy-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MohanrajEleviant/playwright-udemy-framework/issues"
+  },
+  "homepage": "https://github.com/MohanrajEleviant/playwright-udemy-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
+    "allure-playwright": "^3.7.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "csv-parse": "^6.2.1",
+    "xlsx": "^0.18.5"
+  }
+}
